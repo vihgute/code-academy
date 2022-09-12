@@ -1,0 +1,68 @@
+header{text-align: center;
+}
+
+header img {
+  height: 50px;
+}
+
+nav {
+  background: rgb(11, 104, 11);
+  padding: 10px 0;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 20px;
+}
+
+section.grey-block {
+  padding: 20px;
+  background: #eee;
+}
+
+section.green-block {
+  padding: 20px;
+  background: rgb(215, 255, 215);
+}
+section img {
+  width: 100%;
+}
+ 
+h2 {
+  background: rgb(11, 104, 11);
+  color: white;
+  padding: 10px;
+  margin-top: 0;
+}
+
+.grey-block h2 {
+  margin-top: 20px;
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+  }
+  .nav{
+  font-size: 25px;
+  text-align: center;
+  word-spacing: 20px;
+  background-color: green;
+  color: white;
+  }
+  .greyblock{
+    background-color: grey;
+  }
+  .antraste{
+    background-color: green;
+    color: white;
+    font: bold;
+    font-size: 35px;
+    }
+  .foto {
+    height: 100px;
+    }
+  .foto 2 {
+    size: 300px;
+      } 

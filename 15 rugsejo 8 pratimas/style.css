@@ -1,0 +1,17 @@
+div{
+    
+    color:rgb(30, 0, 255);
+    background: rgb(255, 223, 14);
+   }
+.wrapper, .right, .bottom {
+    display:flex;
+}
+.right { flex-direction: column;
+    flex: 1;
+}   
+.left { flex-direction: column;
+    flex: 1;
+} 
+/*.container {
+
+} */  

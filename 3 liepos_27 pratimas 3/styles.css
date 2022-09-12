@@ -1,0 +1,25 @@
+html {
+   
+    font-family: 'Roboto', sans-serif;
+    background-image: linear-gradient(green,blue);
+  }
+  img.foto{
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+  }
+  h1 span{
+    text-align: center;
+    color: rgb(122, 219, 18);
+    font: italic;
+    font-size: 35px;
+    }
+  h2 {
+      color: rgb(35, 4, 35);
+      font-size: 30px;
+     }
+      img {
+        height: 300px;
+     }
+  ol { letter-spacing: 5px; 
+    }
+    ul {list-style-type: square;  
+    }

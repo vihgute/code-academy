@@ -1,0 +1,22 @@
+html {
+    
+    font-family: 'Roboto', sans-serif;
+    background: rgb(125, 139, 95);
+  }
+  h1 span{color: rgb(122, 219, 18);
+    font: italic;
+    }
+    h2.sveiki {color: rgb(49, 2, 49);
+        font-size: medium;
+    }
+
+
+
+
+  p.pom {font: italic;color: gold;font-size: 16;
+ 
+  }
+   
+  .footer {
+    color: rgb(32, 5, 131);
+  }

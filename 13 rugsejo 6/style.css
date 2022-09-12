@@ -1,0 +1,14 @@
+.container > div {
+    background: white;
+    padding: 1em;
+}
+.container > div:nth-child(odd) {
+    background: white;
+    padding: 1em;
+}
+.container {
+    display: grid;
+    grid-template-columns: 40% 30% 40%; /*id-template-column*/  
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
+}

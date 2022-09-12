@@ -1,0 +1,38 @@
+.container-flex {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    line-height: 500 px;
+    width: 500px;
+    background: rgb(245, 242, 242);
+    padding: 3em;
+}
+   
+.fpirmasstulpelis {
+    width: 200px;
+    line-height: 200px;
+    background-color: red;
+}
+
+.fantrasstulpelis {
+
+    width: 200 px;
+    line-height: 200px;
+    background-color: red;
+}
+/*.container-grid > div {
+    width: 200 px;
+    background: rgb(245, 242, 242);
+    padding: 1em;
+    display: grid;
+    grid-template-columns: 50% 50% ; /*id-template-column*/  
+   /* grid-column-gap: 1em;
+   /* grid-row-gap: 1em;*/
+/*}
+
+<div class="flex-container">​
+  <div style="order: 3">1</div>​
+  <div style="order: 2">2</div>​
+  <div style="order: 4">3</div>​
+  <div style="order: 1">4</div>​
+</div>

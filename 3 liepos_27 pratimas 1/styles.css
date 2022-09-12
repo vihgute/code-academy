@@ -1,0 +1,33 @@
+html {
+   
+    font-family: 'Roboto', sans-serif;
+    background: rgb(132, 161, 202);
+  }
+  header {
+    text-align: center;
+  }
+  h1 span{
+    color: rgb(238, 231, 32);
+    text-align: center;
+    font: italic;
+    font-size: 35px;
+    }
+  h2.sveiki {
+      color: rgb(49, 2, 49);
+      font-size: 30px;
+      text-align: center;
+    }
+      img {
+        height: 300px;
+      orientation: center;
+       }
+
+  p.pom {font: italic;color: rgb(255, 0, 157);font-size: 16;
+    text-align: left;
+ 
+  }
+   
+  .footer {
+    text-align: center;
+    color: rgb(17, 16, 20);
+  }

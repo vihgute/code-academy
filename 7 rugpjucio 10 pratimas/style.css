@@ -1,0 +1,33 @@
+table{
+    border: 1px solid rgb(25, 24, 24);
+    border-collapse: collapse;
+    text-align: center;
+    margin: 10px;
+    
+   }
+td, tr{
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    }
+tr:nth-child(odd) td:nth-child(even)  
+    {
+   background-color: black;
+    }
+tr:nth-child(even) td:nth-child(odd)  
+    {
+   background-color: black;
+    }
+    p::before{
+        content: counter(read this);
+    }     
+button{
+    width: 150px;
+    height: 75px;
+    background-color: blueviolet;
+}    
+    button:hover {
+        background-color: yellowgreen;
+
+}
